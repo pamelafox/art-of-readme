@@ -448,7 +448,7 @@ A helpful checklist to gauge how your README is coming along:
 
 ## The author
 
-I'm [noffle](http://blog.eight45.net/about/). I'm known to
+I'm [noffle](http://blog.eight45.net/about.html). I'm known to
 [blog](http://blog.eight45.net), [tweet](https://twitter.com/noffle), and
 [hack](https://github.com/noffle).
 
